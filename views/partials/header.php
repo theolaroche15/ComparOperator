@@ -22,6 +22,3 @@
             <i class="fa-solid fa-house"></i>
         </a>
     </header>
-</body>
-
-</html>
